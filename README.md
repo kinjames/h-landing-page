@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with alternating feature blocks
 
-This is a solution to the [Huddle landing page with alternating feature blocks](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub/social-proof-section-MImiA1BYeq). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Huddle landing page with alternating feature blocks](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100/hub/huddle-landing-page-with-alternating-feature-blocks-TbaR_yRiiV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-MImiA1BYeq)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-TbaR_yRiiV)
 - Live Site URL: [Github](https://kinjames.github.io/h-landing-page/)
 
 ## My process
